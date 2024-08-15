@@ -6,5 +6,6 @@ it will work synchronized between our iOS app and website so it means we will be
 
 This project includes Firebase Firestore and Authorization.And saved locations can be opened via apple maps with touching pin-pointed locations. 
 
-https://github.com/user-attachments/assets/f9b83c76-50ae-40e3-9a32-3acb1f3d2ee4 ,
-https://github.com/user-attachments/assets/0133f4d6-5954-40a9-8cb5-f98d82baff8a .
+![11392238-6986-4095-96b8-5170ea90fed6](https://github.com/user-attachments/assets/0133f4d6-5954-40a9-8cb5-f98d82baff8a) ,
+
+![fca7fafd-cc80-4acc-9b38-deebf51b3a3c](https://github.com/user-attachments/assets/f9b83c76-50ae-40e3-9a32-3acb1f3d2ee4) .
